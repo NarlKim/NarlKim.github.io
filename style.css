@@ -3,6 +3,7 @@
     align-items: center;
     padding: 0 20px;
     border-bottom: 1px solid #444;
+    font-size: 2em;
 }
 
 .nav-items {
@@ -13,7 +14,7 @@
 }
 
 .nav-item{
-    color: white;
+    color: orange;
     text-decoration: none;
     font-size: 16px;
     transition: color 0.3s;
